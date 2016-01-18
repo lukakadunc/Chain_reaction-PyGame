@@ -9,3 +9,7 @@ I set 5 phases for my work:
 5. Finsih game
 
 
+#PROBLEM
+Right now i am facing a problem, beacuse i dont know how to make circles
+disaper 4 seconds after they hit and explode
+
